@@ -1120,3 +1120,139 @@ Received Import Request.
 Start importing Assets/_Scenes/4. AudioMixer_Finish.unity using Guid(ea8b25027560c0a4a972b85f2d444da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9178e5e4132499a245a9ca1b1986790') in 0.687670 seconds 
   Import took 1.103868 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 101.957126 seconds.
+  path: Assets/z_Resources/Pre Built Scene/models
+  artifactKey: Guid(bbf5f76f32c206045acdb7ddf8ae3aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/z_Resources/Pre Built Scene/models using Guid(bbf5f76f32c206045acdb7ddf8ae3aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abcf4d1b51977c06ae11c4e11bf4fd1c') in 0.009120 seconds 
+  Import took 0.081308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001885 seconds.
+  path: Assets/z_Resources/Pre Built Scene/models/Materials
+  artifactKey: Guid(6a104e6d6d4744747b2599ea2797c1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/z_Resources/Pre Built Scene/models/Materials using Guid(6a104e6d6d4744747b2599ea2797c1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d9ebb29db7e4de63f35243d39e4ca0d') in 0.008136 seconds 
+  Import took 0.066703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.087640 seconds.
+  path: Assets/z_Resources/Pre Built Scene/models/Materials/Textures
+  artifactKey: Guid(bda702f07a90e564bb577128d71deb81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/z_Resources/Pre Built Scene/models/Materials/Textures using Guid(bda702f07a90e564bb577128d71deb81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f08fc20da81b3295975e47aa9c8419b4') in 0.045731 seconds 
+  Import took 0.119652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094612 seconds.
+  path: Assets/_Scenes/2. DopplerEffect_Start.unity
+  artifactKey: Guid(2857f59998bfbad499f35029fe0f3d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/2. DopplerEffect_Start.unity using Guid(2857f59998bfbad499f35029fe0f3d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '794ee97eef922b16903ca79d9ca4b3f1') in 0.035483 seconds 
+  Import took 0.069710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.265823 seconds.
+  path: Assets/Materials/Blue.mat
+  artifactKey: Guid(7265595bda20a9f4b95c000940e2a385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Blue.mat using Guid(7265595bda20a9f4b95c000940e2a385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0baf56cdc24ca34febc4373627c3759') in 4.737507 seconds 
+  Import took 4.909421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117587 seconds.
+  path: Assets/z_Resources/Pre Built Scene/Environment/Road.mat
+  artifactKey: Guid(a3223fc16894b5d46ad79ea3bbafe335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/z_Resources/Pre Built Scene/Environment/Road.mat using Guid(a3223fc16894b5d46ad79ea3bbafe335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11bbd4a3b359a6209f4cd115b8f8af54') in 0.021274 seconds 
+  Import took 0.153516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.464154 seconds.
+  path: Assets/Materials/Red.mat
+  artifactKey: Guid(11dd8b1cc89fc8c4496ab5fef47b0885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Red.mat using Guid(11dd8b1cc89fc8c4496ab5fef47b0885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a51c951459a7c0643df089550458ce') in 0.029350 seconds 
+  Import took 0.102673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012472 seconds.
+  path: Assets/z_Resources/Pre Built Scene/Environment/Grass.mat
+  artifactKey: Guid(30611502c2119cd4e8b62e8843d5ea5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/z_Resources/Pre Built Scene/Environment/Grass.mat using Guid(30611502c2119cd4e8b62e8843d5ea5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850aa42356cf1d20956cbde4065fbfa4') in 0.017862 seconds 
+  Import took 0.043385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016434 seconds.
+  path: Assets/z_Resources/Pre Built Scene/Environment/Rock.mat
+  artifactKey: Guid(d526da132cb31004c87b6d735f67ea75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/z_Resources/Pre Built Scene/Environment/Rock.mat using Guid(d526da132cb31004c87b6d735f67ea75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '160d10a228da44ecb5f4c52085d88227') in 0.063984 seconds 
+  Import took 0.094081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.174999 seconds.
+  path: Assets/z_Resources/Pre Built Scene/models/Materials/Textures/road.png
+  artifactKey: Guid(7d606420c7523d34799ef3531937853e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/z_Resources/Pre Built Scene/models/Materials/Textures/road.png using Guid(7d606420c7523d34799ef3531937853e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daadd161672cdf1b3c832c7d6a9bef8e') in 1.021844 seconds 
+  Import took 1.137564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064660 seconds.
+  path: Assets/z_Resources/Pre Built Scene/PineTree.prefab
+  artifactKey: Guid(e7a7cd54fae5d264a967296b07a9a85a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/z_Resources/Pre Built Scene/PineTree.prefab using Guid(e7a7cd54fae5d264a967296b07a9a85a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '538d0969ba02c2a8e60adc2b6b88ba77') in 0.114336 seconds 
+  Import took 0.127018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.127584 seconds.
+  path: Assets/z_Resources/ModularFirstPersonController/FirstPersonController/FirstPersonController.prefab
+  artifactKey: Guid(6bacecc4f3df9584198879c73a6b6c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/z_Resources/ModularFirstPersonController/FirstPersonController/FirstPersonController.prefab using Guid(6bacecc4f3df9584198879c73a6b6c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c448b17e83cedeff166eda419aba2cf') in 0.114043 seconds 
+  Import took 0.218992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013379 seconds.
+  path: Assets/_Scenes/4. AudioMixer_Start.unity
+  artifactKey: Guid(6b4f29823db122c4d9711eecc7ad81a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/4. AudioMixer_Start.unity using Guid(6b4f29823db122c4d9711eecc7ad81a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1fa29c028580cf1b008a5222dbd4545') in 0.010397 seconds 
+  Import took 0.032650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049017 seconds.
+  path: Assets/z_Resources/Pre Built Scene/Vehicles/CarSpawner.cs
+  artifactKey: Guid(76fc22ae73f3ac84897036a0f1e50c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/z_Resources/Pre Built Scene/Vehicles/CarSpawner.cs using Guid(76fc22ae73f3ac84897036a0f1e50c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1edf56837884456435b0858da912d72b') in 0.015570 seconds 
+  Import took 0.031994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008611 seconds.
+  path: Assets/Materials/Sphere.mat
+  artifactKey: Guid(0df169f711868fa409a19ea9716f1044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sphere.mat using Guid(0df169f711868fa409a19ea9716f1044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb4cddd48ba632a55c7ec0d7deb3fffd') in 0.020310 seconds 
+  Import took 0.048137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020954 seconds.
+  path: Assets/Scripts/VolumeSlider.cs
+  artifactKey: Guid(f4441ad34409e404e88b08ce45d5ba29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/VolumeSlider.cs using Guid(f4441ad34409e404e88b08ce45d5ba29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1f47c4d0ad35f8fcb734cfc569411c') in 0.008367 seconds 
+  Import took 0.029834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.086445 seconds.
+  path: Assets/Scripts/SpawnShperes.cs
+  artifactKey: Guid(ffd4cba6c5e5ec64a83dcb36e1af748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SpawnShperes.cs using Guid(ffd4cba6c5e5ec64a83dcb36e1af748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '037b91678c68a40852f9a09567befa1e') in 0.023255 seconds 
+  Import took 0.034204 seconds .
+
